@@ -1,5 +1,5 @@
-# Hi~!!
-## I'm JaeYoung! nice me to you! 👋
+# 안녕하세요~!!
+# 반가워요~ 👋
 
 <!--
 **yangbnag/yangbnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
